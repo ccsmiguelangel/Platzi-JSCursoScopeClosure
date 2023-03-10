@@ -27,3 +27,5 @@ function countries(){
 
 countries();
 console.log(country);
+
+// CTRL + ALT + N, para ejecutar js con la extensión "code runner"
